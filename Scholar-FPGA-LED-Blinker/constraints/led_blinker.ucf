@@ -1,0 +1,2 @@
+NET "clk_in"   LOC = "P43" | IOSTANDARD = LVCMOS33;
+NET "led_out"  LOC = "P44" | IOSTANDARD = LVCMOS33 | SLEW = SLOW | DRIVE = 8;
