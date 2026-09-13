@@ -17,7 +17,7 @@ A modular FPGA development board designed for rapid prototyping, embedded-system
 - Memory: 8 MByte SDRAM, 2 Mbit Flash
 - Interfaces: USB, GPIO, UART, SPI, I2C
 - Power input:3.3 & 1.2V regulators
-- Expansion modules: Add-On Modules – Traffic Light Controller Board
+- Expansion modules: Demonstration module: Traffic Light Controller Board
 
 ## Project Status
 Working prototype completed. Hardware validation and demonstration materials are being organized.
