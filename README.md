@@ -25,5 +25,21 @@ Working prototype completed. Hardware validation and demonstration materials are
 ## Documentation
 See the [documentation folder](docs/) for the project overview, specifications, block diagram, and testing results.
 
+## Project Images
+
+### FPGA Development Board
+![FPGA development board](images/fpga-board-top-view.jpg.jpg)
+
+### System Block Diagram
+![FPGA board block diagram](images/fpga-board-block-diagram.jpg.jpg)
+
+### Traffic Light Controller Demonstration
+![Traffic Light Controller demonstration](images/traffic-light-controller-demo.jpg.jpg)
+
+### FPGA Development Flow
+![FPGA development flow](images/FPGA%20Flow%20chart.jpg)
+
 ## Creator
+
 Designed by Ramakumar Mayil.
+
